@@ -1,0 +1,6 @@
+whatever i ask you just do that thing only , try to complete all possible variations before adding any new stack to the code 
+make sure the whole code is in mern stack and responsive 
+to make the code responsive use tailwind css 
+make sure the code is clean and eay to understand and integrate to a new project
+while making the code make sure when you tryto fix a bug you dont break the existing code and add a new technical error 
+make sure the code is optimized for performance and security 
